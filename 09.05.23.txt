@@ -1,0 +1,16 @@
+classe static: 
+n pode ser instanciada;
+n pode ter construtores de instância;
+
+colocar "static" nos atributos e métodos
+
+na hora de chamar, é chamado igual um "cwl". Conversao.Temperatura();
+
+
+método construtor: serve p chamar o método e instanciar-lo ao msm tempo  fala do Carlos: "garante que td vez q criar um objeto, os parâmetros sejam epecificados"
+
+forma de ter mais segurança na aplicação
+atalho: ctor
+é um método especial
+n tem retorno
+
