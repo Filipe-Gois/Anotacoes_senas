@@ -1,0 +1,36 @@
+"super array"
+
+é um array de objetos
+
+list > objeto > propriedades
+
+só dar um foreach depois
+
+
+métodos mais importantes:
+
+add() add um objeto ao final do list
+
+Clear() remove
+
+Contains()
+
+Find() recupera o primeiro que aparecer
+
+FindAll() recupera todos os objetos com o mesmo nome
+
+FindIndex() recupera pelo índice
+
+IndexOf() acha o objeto e retorna o índice
+
+Insert() insere um elemento no list
+
+Remove() remove a primeira ocorrência de um objeto específico
+
+RemoveAll() remove todos os elementos
+
+RemoveAt() remove algo específico(tds se ajustam após a alteração)
+
+Reverse() Inverte a ordem da lista
+
+Sort() classifica o elemento...
