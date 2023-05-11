@@ -1,0 +1,19 @@
+é igual uma classe abstrata
+
+n pode ser instanciada
+
+pode ter heranças de múltiplas interfaces
+
+diferença entre abstract: ideia de contrato (tem q seguir oq tá lá à risca)
+
+"i" MAIÚSCULO. Obrigatório na hora de criar interface
+
+interface: é como se fosse as regras para um contrato(método)
+
+As interfaces tem sua declaração com o termo interface ao invés de class. 
+Ex: public interface ICarrinho{}
+Ela possui somente métodos
+
+Os métodos não possuem assinatura, somente tipo
+Ao utilizar uma interface em uma classe, TODOS os métodos declarados na interface precisam ser 
+implantados nas classes que herdarem essa determinada interfaces)
