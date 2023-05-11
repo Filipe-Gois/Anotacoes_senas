@@ -3,6 +3,7 @@
 n pode ser instanciada
 
 pode ter heranças de múltiplas interfaces
+ordem de herança: classe e dps as interfaces
 
 diferença entre abstract: ideia de contrato (tem q seguir oq tá lá à risca)
 
