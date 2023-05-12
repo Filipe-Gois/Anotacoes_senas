@@ -18,3 +18,10 @@ Ela possui somente métodos
 Os métodos não possuem assinatura, somente tipo
 Ao utilizar uma interface em uma classe, TODOS os métodos declarados na interface precisam ser 
 implantados nas classes que herdarem essa determinada interfaces)
+
+
+Pode adicionar vários objetos em uma lista de um objeto diferente, desde que os outros herdem do objeto especificado na lista
+exe:
+list<contato>
+
+dá p adicionar a ContaPessoal e ContaJuridica, pois herdam da classe "contato"
