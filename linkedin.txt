@@ -1,0 +1,12 @@
+descrever o tema do video
+legendar o video
+
+@marcar o senai no video
+#referenciar com o tema do video #python #back-end #full-stack
+
+faz uma analise da sua foto do linkedin
+snappr.com
+
+
+teste de competencia:
+aparece caso alguem indique vc em alguma competencia
