@@ -1,0 +1,23 @@
+ordem:
+
+1:view
+2: controller
+3: model
+
+
+salvar informações em arquivo estático(físico), n estando mais na memória.
+
+arquivo de texto com extensão CSV(mt usado para exportar dados de um banco de dados "migração de dados")
+dados estarão salvos com um separador ", ou ;"
+
+.Split("/") "tira o item informado nos parênteses"
+
+
+
+classe que trabalha com diretórios no C#: Directory.
+
+classe que trabalha com arquivos no C#: File.
+
+Dentro do arquivo .CSV:
+Cada linha representa um objeto(cadastro)
+deixar uma linha livre no final, caso contrário, não vai funcionar
