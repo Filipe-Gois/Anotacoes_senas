@@ -1,0 +1,35 @@
+razor: incorporar estruturas, códigos e variáveis dentro do html
+Dá p misturar code do servidor com o lado do cliente
+usign = @"nome da classe" 
+
+Com exceção da awaitpalavra-chave C#, as expressões implícitas não devem conter espaços. 
+
+@ é uma expressão RAzor: traduzir C# p html
+@@ TRADUZIR Expresssão  razor para texto
+
+exemplo:
+<p>@DateTime.Now</p> -- aparece a hora do sistema na tela
+
+<p>@@DateTime.Now</p> -- aparece o texto "DateTime.Now" na tela
+
+n pode usar nd q tenha "<>" pq entende como abrir e fechar de tag html
+
+
+
+só o início precisa de @(ou seja, o @IF e @switch)
+
+@lock: proteger sessões críticas
+
+
+@functions {
+    public string GetHello()
+    {
+        return "Hello";
+    }
+}
+
+<div>From method: @GetHello()</div> 
+
+
+
+bootstrap: biblioteca de css
