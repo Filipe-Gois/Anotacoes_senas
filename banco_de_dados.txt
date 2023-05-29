@@ -1,0 +1,18 @@
+{
+relacionais: pensar em tabelas
+não relacional: não trabalha com tabelas
+
+no banco de dados a classe vira uma tabela(entidade)
+
+SQL -> linguagem de consulta
+
+tipos de banco de dados do SQL:
+mysql
+sqlserver
+oracle
+cassandra
+
+
+SSMS -> GERENCIADOR
+}
+

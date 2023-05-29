@@ -1,0 +1,22 @@
+expressão regular: pesquisar depois
+
+dataanotation: anotação de dados
+
+pk: primary key
+pf: chave estrangeira
+[Key]
+public int IdEquipe { get; set; }
+
+[Key] só pega uma linha abaixo
+
+
+
+classe context: classe responsavel pelas configs do banco de dados
+
+
+
+
+
+
+ -- colocar no CMD:
+dotnet tool install --global dotnet-ef
