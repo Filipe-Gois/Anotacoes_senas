@@ -11,11 +11,11 @@ diferença entre abstract: ideia de contrato (tem q seguir oq tá lá à risca)
 
 interface: é como se fosse as regras para um contrato(método)
 
-As interfaces tem sua declaração com o termo interface ao invés de class. 
+As interfaces têm sua declaração com o termo interface ao invés de class. 
 Ex: public interface ICarrinho{}
 Ela possui somente métodos
 
-Os métodos não possuem assinatura, somente tipo
+Os métodos não possuem assinatura, somente tipo Exe: void Executar();
 Ao utilizar uma interface em uma classe, TODOS os métodos declarados na interface precisam ser 
 implantados nas classes que herdarem essa determinada interfaces)
 
