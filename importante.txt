@@ -1,0 +1,7 @@
+dotnet tool install --global dotnet-ef
+
+comando para cirar migrations: dotnet ef migrations add InitialCreate
+
+"para cada controller deve existir uma view"
+
+formulário: a propriedade "name" equivale a uma variável
