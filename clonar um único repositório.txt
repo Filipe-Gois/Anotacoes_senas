@@ -1,0 +1,5 @@
+git clone -n [cole aqui a url copiada]           "copiar a pasta raiz sem nada"
+
+acessar a raiz da pasta e abrir o git bash here
+
+git checkout HEAD [pasta/subpasta/arquivo]       "para destinar o caminho que deve aparecer"
