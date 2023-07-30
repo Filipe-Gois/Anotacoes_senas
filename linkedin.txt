@@ -1,8 +1,9 @@
+na hora de postar algo:
 descrever o tema do video
 legendar o video
 
 @marcar o senai no video
-#referenciar com o tema do video #python #back-end #full-stack
+#referenciar com o tema do video "#python #back-end #full-stack"
 
 faz uma analise da sua foto do linkedin
 snappr.com
